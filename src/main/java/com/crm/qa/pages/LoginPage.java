@@ -45,4 +45,8 @@ public class LoginPage extends TestBase{
 		
 		return new HomePage();
 	}
+	
+	public void validateSignUp() {
+		System.out.println("this is sign up thing for test");
+	}
 }
